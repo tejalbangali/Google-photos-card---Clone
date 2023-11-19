@@ -1,0 +1,41 @@
+body {
+  font-family: "Noto Sans JP", sans-serif;
+}
+
+.card {
+  width: 400px;
+  margin: 50px auto;
+  border: 1px solid lightgray;
+  border-radius: 16px;
+}
+
+.image {
+  width: 100%;
+  border-top-right-radius: 16px;
+  border-top-left-radius: 16px;
+}
+
+.card-section {
+  margin: 20px 30px;
+}
+
+.plan {
+  color: #727578;
+  margin-bottom: 0;
+}
+
+.description {
+  color: #535557;
+  margin-top: 0;
+  margin-bottom: 30px;
+}
+
+.button {
+  background-color: white;
+  font-size: 20px;
+  color: royalblue;
+  border: 2px solid lightgrey;
+  border-radius: 5px;
+  padding: 10px 20px;
+  margin-bottom: 20px;
+}
